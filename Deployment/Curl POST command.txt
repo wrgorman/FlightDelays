@@ -1,0 +1,12 @@
+
+
+NOTE: the port number needs to be set to your local host configuration
+
+Also NOTE that on my Windows machine console window I had to use double quotes and escape the inner double quotes for it to work.
+This may potentially not be necessary on an Apple machine.
+
+
+curl -d "{\"OpsOrigin\":\"30000\", \"OpsDest\":\"50000\", \"AA\":\"1\", \"DL\":\"0\", \"EV\":\"0\", \"OO\":\"0\", \"UA\":\"0\", \"WN\":\"0\"}" -H "Content-Type: application/json" -X POST http://localhost:54666/predict
+
+
+
