@@ -2,7 +2,7 @@
 
 The purpose of this project was to create a model that would predict whether a flight would arrive on time or be delayed based on choice of airline and how busy the departure and arrival airports are on an annual basis.
 
-The final version of this project can be found in the ./Deployment/Final Version subdirectory.  All files referenced below are contained in that child directory off of the current directory (i.e., FlightDelays). 
+The final version of this project can be found within the &quot;./Deployment/Final Version&quot; subdirectory that is located within this current directory (i.e., FlightDelays).  All files referenced below are contained in this same child directory. 
 
 The data used as part of this was found on the Kaggle website and extracted from data that I had previously compiled during my normal course of work.  Information about the Kaggle data can be found in the &quot;Project Concept.md&quot; markdown document.  The relevant data that I provided consisted of airport operations count information that was a direct measure of how busy each airport is.
 
