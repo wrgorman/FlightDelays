@@ -2,7 +2,7 @@
 
 The purpose of this project was to create a model that would predict whether a flight would arrive on time or be delayed based on choice of airline and how busy the departure and arrival airports are on an annual basis.
 
-The data used as part of this was found on the Kaggle website and extracted from data that I had previously compiled during my normal course of work.  Information about the Kaggle data can be found in the &quot;Project Concept.docx&quot; Microsoft Word document in this folder.  The relevant data that I provided consisted of airport operations count information that was a direct measure of how busy each airport is.
+The data used as part of this was found on the Kaggle website and extracted from data that I had previously compiled during my normal course of work.  Information about the Kaggle data can be found in the &quot;Project Concept.md&quot; markdown document in this folder (or the &quot;Project Concept.docx&quot; file).  The relevant data that I provided consisted of airport operations count information that was a direct measure of how busy each airport is.
 
 The &quot;Flight Delay Model.ipynb&quot; Jupyter notebook file is where the data wrangling logic can be found.  Flight, airport, and airline information was loaded.  Canceled and diverted flight information was removed.  Rows with NULL data, missing data, and invalid Airport identifier information were removed.
 
